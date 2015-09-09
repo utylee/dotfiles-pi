@@ -1,0 +1,10 @@
+syntax on 
+set background=dark
+set nu
+set cul
+set hls
+set nocompatible
+set ts=4
+set sw=4
+set t_Co=256
+"colorscheme molokai
